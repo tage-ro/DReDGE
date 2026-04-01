@@ -1,3 +1,4 @@
+#!/bin/bash -l
 # USAGE: sketch_genomes.sh <dereplicated genomes directory> <output name> <compression> <cores>
 
 GENOMES=$1
