@@ -1,3 +1,4 @@
+#!/bin/bash -l
 # USAGE: dl_genomes.sh <taxid> <output directory>
 
 TAXON=$1
