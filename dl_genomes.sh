@@ -7,3 +7,4 @@ OUT=$2
 datasets download genome taxon $TAXON --reference --dehydrated --filename genomes.zip
 unzip genomes.zip -d $OUT
 datasets rehydrate --directory $OUT/
+rm genomes.zip
