@@ -1,3 +1,4 @@
+#!/bin/bash -l
 # USAGE: bash derep_genomes.sh <genomes directory> <output directory> <number of cores>
 
 GENOMES=$1
